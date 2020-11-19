@@ -133,6 +133,8 @@ body {
 .linemobile {
 		display: none;
 	}
+.linedesktop{
+	display:block}
 
 
 
@@ -586,6 +588,8 @@ footer a:hover {
 
 	
 }
+.line2 {
+	display: none; }
 
 }
 
